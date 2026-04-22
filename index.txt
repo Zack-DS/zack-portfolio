@@ -1,11 +1,11 @@
-Jack - personal portfolio
+Didik Zakaria - personal portfolio
 
 # HEDER
 
-Jack.
+Zack.
 
 En
-Ar
+in
 
 aria-label = Change Theme
 title = Change Theme
@@ -25,15 +25,15 @@ Contact.
 
 alt = A man in a blue shirt with a happy expression
 
-We Design & Build Creative Products
+WWeb Portofolio <br> Didik Zakaria
 
-Get in touch
+Klik Untuk Menghubungi
 
 <ion-icon name="logo-facebook"></ion-icon>
 Facebook
 
-<ion-icon name="logo-twitter"></ion-icon>
-Twitter
+<ion-icon name="logo-instagram"></ion-icon>
+instagram
 
 <ion-icon name="logo-linkedin"></ion-icon>
 Linkedin
@@ -69,13 +69,15 @@ alt = A man in a alice blue shirt with a thinking expression
 
 About me
 
-Need a Creative Product? I can Help You!
+Ingin mengenal saya lebih dalam? Kalo gak mau sekip aja!
 
-Hi! I’m Jack Reacher, and I’m a developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
+Saya lulusan SMA Negeri 1 Bandar pada tahun 2026 Jurusan IPA, saya memiliki pengalaman organisasi sebagai Wakil Ketua OSIS serta aktif dalam kegiatan Pramuka. Pengalaman tersebut membentuk saya menjadi pribadi yang disiplin, bertanggung jawab, serta memiliki kemampuan kepemimpinan dan kerja sama tim yang baik.
+Selain itu, saya memiliki keterampilan dalam penggunaan Microsoft Office dan desain grafis dasar menggunakan Canva. Saya juga pernah mengelola toko online di Shopee yang menjual produk digital seperti token listrik, pulsa, paket data, serta menyediakan jasa fotokopi.
+Saya memiliki semangat untuk terus belajar dan berkembang, serta siap berkontribusi dalam lingkungan kerja yang dinamis.
 
-Hire me
+Pengalaman
 
-Download cv
+Lihat cv
 
 
 
