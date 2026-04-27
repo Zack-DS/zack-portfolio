@@ -1,56 +1,65 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/jack-portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/jack-portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/jack-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/DdlVKS7MROY?style=social)](https://youtu.be/DdlVKS7MROY)
 
-  <br />
-  <br />
-  
-  <img src="./readme-images/project-logo.png" />
+  <h1>Didik Zakaria</h1>
+  <p><strong>Personal Portfolio Website</strong></p>
 
-  <h2 align="center">Jack - Personal portfolio</h2>
-
-  This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/jack-portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://USERNAMEKAMU.github.io/portfolio-didik/">
+    <img src="https://img.shields.io/badge/Lihat%20Website-Online-blue?style=for-the-badge">
+  </a>
 
 </div>
 
-<br />
+---
 
-### Demo Screeshots
+## 👋 Tentang Saya
 
-![Jack Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+Saya merupakan lulusan SMA dengan pengalaman organisasi sebagai Wakil Ketua OSIS serta aktif dalam kegiatan Pramuka.  
+Memiliki kemampuan kepemimpinan, kerja sama tim, serta disiplin yang baik.
 
-### Prerequisites
+Saya juga memiliki pengalaman dalam mengelola usaha mandiri melalui platform Shopee dengan menjual produk digital seperti token listrik, pulsa, dan paket data, serta menyediakan jasa fotokopi.
 
-Before you begin, ensure you have met the following requirements:
+Saya terbiasa menggunakan:
+- Microsoft Office  
+- Canva (desain grafis dasar)  
+- CapCut (editing video sederhana)  
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+---
 
-### Run Locally
+## 🌐 Live Website
 
-To run **jack-portfolio** locally, run this command on your git bash:
+🔗 https://USERNAMEKAMU.github.io/portfolio-didik/
 
-Linux and macOS:
+---
+
+## 🛠 Teknologi yang Digunakan
+
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 📌 Fitur Utama
+
+- Website responsive (mobile & desktop)
+- Form kontak langsung ke email (Formspree)
+- Integrasi Google Drive (CV & pengalaman)
+- Navigasi sederhana dan user-friendly
+
+---
+
+## 📁 Isi Portfolio
+
+Website ini berisi:
+- Profil diri  
+- Pengalaman organisasi  
+- Skill & tools  
+- Karya / project  
+- Kontak  
+
+---
+
+## 🚀 Cara Menjalankan Project
 
 ```bash
-sudo git clone https://github.com/codewithsadee/jack-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/jack-portfolio.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+git clone https://github.com/USERNAMEKAMU/portfolio-didik.git

@@ -2,7 +2,7 @@ Didik Zakaria - personal portfolio
 
 # HEDER
 
-Zack.
+Didik Zakaria .
 
 En
 in
@@ -13,11 +13,11 @@ title = Change Theme
 aria-label = Toggle Menu
 title = Toggle Menu
 
-Home.
-About.
-Skills.
-Portfolio.
-Contact.
+Rumah.
+T. Saya.
+Pengalaman.
+Momen.
+Kontak.
 
 
 
@@ -25,7 +25,7 @@ Contact.
 
 alt = A man in a blue shirt with a happy expression
 
-WWeb Portofolio <br> Didik Zakaria
+Web Portofolio <br> Didik Zakaria
 
 Klik Untuk Menghubungi
 
@@ -46,20 +46,20 @@ Scroll
 
 alt = Badge icon
 
-12+
-Years of Experience
+500+
+Tik Tok
 
 <ion-icon name="chevron-forward-outline"></ion-icon>
 
 alt = Checkmark icon
 
-230+
-Completed Projects
+300+
+Instagram
 
 alt = Peoples rating icon
 
-95+
-Happy Clients
+999+
+Shopee
 
 
 
@@ -75,7 +75,7 @@ Saya lulusan SMA Negeri 1 Bandar pada tahun 2026 Jurusan IPA, saya memiliki peng
 Selain itu, saya memiliki keterampilan dalam penggunaan Microsoft Office dan desain grafis dasar menggunakan Canva. Saya juga pernah mengelola toko online di Shopee yang menjual produk digital seperti token listrik, pulsa, paket data, serta menyediakan jasa fotokopi.
 Saya memiliki semangat untuk terus belajar dan berkembang, serta siap berkontribusi dalam lingkungan kerja yang dinamis.
 
-Pengalaman
+Sertifikat
 
 Lihat cv
 
@@ -83,11 +83,10 @@ Lihat cv
 
 # SKILLS
 
-My skills
+Pengalaman  Kursus
+Kursus Canva, CapCut dan Komputer
 
-What My Programming Skills Included?
-
-I develop simple, intuitive and responsive user interface that helps users get things done with less effort and time with those technologies.
+Saya mengembangkan antarmuka pengguna yang sederhana, intuitif, dan responsif yang membantu pengguna menyelesaikan berbagai hal dengan lebih sedikit usaha dan waktu menggunakan teknologi tersebut.
 
 Skills
 Tools
@@ -98,26 +97,26 @@ alt = HTML5 logo
 CSS3
 alt = CSS3 logo
 
-JavaScript
-alt = JavaScript logo
+Al mekanik
+alt = Al Mekanik logo
 
-TypeScript
-alt = TypeScript logo
+Menjahit
+alt = Menjahit logo
 
-jQuery
-alt = jQuery logo
+Editing
+alt = Editing logo
 
-Bootstrap
-alt = Bootstrap logo
+Camping
+alt = Camping logo
 
-Angular
-alt = Angular logo
+Bersepeda
+alt = Bersepeda logo
 
-React
-alt = React logo
+Lari
+alt = Lari logo
 
-Vue
-alt = Vue logo
+Mengoperasikan Komputer
+alt = Komputer logo
 
 Firebase
 alt = Firebase logo
